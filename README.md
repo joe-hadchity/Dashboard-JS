@@ -63,7 +63,7 @@ npm install
 
 ```
 
-##Usage
+## Usage
 
 1. Start the development server:
 
@@ -74,3 +74,18 @@ npm start
 ```
 
 2. Open your web browser and navigate to http://localhost:3000 to view the application.
+
+## Contributing
+
+Contribution are welcome! If you'd ike to contribute to this project, please follow the contribution guidelines
+
+## License
+
+This project is licensed under the MIT License.
+
+```vbnet
+
+
+You can copy and paste this entire code block into your project's README.md file. Make sure to customize the placeholders like `your-username`, `your-repo`, and other specific details according to your project.
+
+```
