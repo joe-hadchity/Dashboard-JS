@@ -47,7 +47,7 @@ const App = () => {
           </div>
           {activeMenu ? (
             <div
-              className="w-72 fixed 
+              className="w-71 fixed 
           sidebar 
           dark:bg-secondary-dark-bg 
           bg-white"
