@@ -1,0 +1,7 @@
+.dot-icon {
+  width: 8px;
+  height: 8px;
+  background-color: #000; /* Set the color you want for the dot */
+  border-radius: 50%; /* Make it a circle */
+  display: inline-block;
+}
